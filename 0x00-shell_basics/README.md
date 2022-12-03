@@ -1,1 +1,0 @@
-my curretn directory
