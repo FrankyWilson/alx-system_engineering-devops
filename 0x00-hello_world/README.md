@@ -1,1 +1,1 @@
-# this is about the hello world concept
+the hello world project
